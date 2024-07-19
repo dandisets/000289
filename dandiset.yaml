@@ -5,7 +5,7 @@
 about: []
 access:
 - schemaKey: AccessRequirements
-  status: dandi:EmbargoedAccess
+  status: dandi:OpenAccess
 assetsSummary:
   approach:
   - name: microscopy approach; cell population imaging
@@ -41,7 +41,7 @@ assetsSummary:
   - ProcessingModule
   - PlaneSegmentation
   - ImagingPlane
-citation: Basnak, Melanie Ailin; Wilson, Rachel (2022) Two-photon calcium imaging
+citation: Basnak, Melanie Ailin; Wilson, Rachel (2024) Two-photon calcium imaging
   of EPG cells in Drosophila Melanogaster presented with cues of varying reliability
   (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000289/draft
 contributor:
