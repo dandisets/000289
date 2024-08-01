@@ -43,7 +43,7 @@ assetsSummary:
   - ImagingPlane
 citation: Basnak, Melanie Ailin; Wilson, Rachel (2024) Two-photon calcium imaging
   of EPG cells in Drosophila Melanogaster presented with cues of varying reliability
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000289/draft
+  (Version 0.240801.1040) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000289/0.240801.1040
 contributor:
 - awardNumber: 1 R34 NS 123819-01
   name: National Institutes of Health (NIH)
@@ -91,8 +91,9 @@ description: This dandiset contains the data associated with "Uncertainty and le
   in a biological ring attractor" (Basnak et al., in preparation). It is comprised
   of two-photon calcium imaging, stimulus variables, and behavioral measurements of
   fruit flies presented with cues of varying reliability.
+doi: 10.48324/dandi.000289/0.240801.1040
 ethicsApproval: []
-id: DANDI:000289/draft
+id: DANDI:000289/0.240801.1040
 identifier: DANDI:000289
 keywords:
 - navigation
@@ -104,7 +105,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000289/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000289/0.240801.1040/assets.yaml
 name: Two-photon calcium imaging of EPG cells in Drosophila Melanogaster presented
   with cues of varying reliability
 protocol: []
@@ -136,6 +137,6 @@ studyTarget:
 - Assess if the compass neurons of Drosophila are able to represent uncertainty
 - Study the neural and behavioral strategies adopted by drosophila when faced with
   navigational uncertainty
-url: https://dandiarchive.org/dandiset/000289/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000289/0.240801.1040
+version: 0.240801.1040
 wasGeneratedBy: []
