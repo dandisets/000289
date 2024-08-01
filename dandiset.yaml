@@ -86,6 +86,7 @@ contributor:
   - dcite:Affiliation
   schemaKey: Organization
 dateCreated: '2022-06-29T17:26:03.175597+00:00'
+datePublished: '2024-08-01T10:40:00.978214+00:00'
 description: This dandiset contains the data associated with "Uncertainty and learning
   in a biological ring attractor" (Basnak et al., in preparation). It is comprised
   of two-photon calcium imaging, stimulus variables, and behavioral measurements of
@@ -107,6 +108,18 @@ manifestLocation:
 name: Two-photon calcium imaging of EPG cells in Drosophila Melanogaster presented
   with cues of varying reliability
 protocol: []
+publishedBy:
+  endDate: '2024-08-01T10:40:00.978214+00:00'
+  id: urn:uuid:e699bff3-8f5a-4d92-ab4c-e0f6b87caff5
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-08-01T10:40:00.978214+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:b2bbddc4-9dc4-42a7-8dce-e313b9039cde
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: Analysis code
   relation: dcite:IsSupplementTo
@@ -121,7 +134,7 @@ schemaKey: Dandiset
 schemaVersion: 0.6.3
 studyTarget:
 - Assess if the compass neurons of Drosophila are able to represent uncertainty
-- Sutdy the neural and behavioral strategies adopted by drosophila when faced with
+- Study the neural and behavioral strategies adopted by drosophila when faced with
   navigational uncertainty
 url: https://dandiarchive.org/dandiset/000289/draft
 version: draft
